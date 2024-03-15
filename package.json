@@ -1,0 +1,26 @@
+{
+  "name": "larmda-express-application",
+  "version": "1.0.0",
+  "description": "An Express App that uses the EJS engine to render webpages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeekayCarter/Larmda-Express-Application.git"
+  },
+  "author": "Muhammed Teekay Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeekayCarter/Larmda-Express-Application/issues"
+  },
+  "homepage": "https://github.com/TeekayCarter/Larmda-Express-Application#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}

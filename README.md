@@ -39,8 +39,7 @@ Backend Development Evaluation: Week-2
 
  Question 4: Detailed Package.json and GitHub Repository
 
- Task: Enhance your project setup by providing detailed information in the package.json file and linking your project to a GitHub repository. 
- 
+ Task: Enhance your project setup by providing detailed information in the package.json file and linking your project to a GitHub repository.
  Complete the following tasks:
 
  ● Update the package.json file with relevant details such as project name, description, author, and license.
@@ -57,4 +56,4 @@ Backend Development Evaluation: Week-2
 
  ● You are to document your code effectively with comments to explain the purpose of each section or function.
 
- ● Please you are advised to go through this link to know how to setup your github and git respectively. Get started with GitHub documentation- GitHub Docs
+ ● Please you are advised to go through this link to know how to setup your github and git respectively.
